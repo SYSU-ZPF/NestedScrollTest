@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NestedScrollTest</string>
+
+    <string name="rank_tab0_name">今日热销</string>
+    <string name="rank_tab1_name">本周排行</string>
+    <string name="rank_tab2_name">口碑榜</string>
+</resources>
